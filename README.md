@@ -11,4 +11,6 @@ N/A
 `gradle test`
 
 ### Notes
-- The JDK is installed on GitHub Actions machines, so you're also able to directly invoke `javac`, `java`, or any other CLI command included in the JDK. 
+- The JDK is installed on GitHub Actions machines, so you're also able to directly invoke `javac`, `java`, or any other CLI command included in the JDK.
+
+# Gradle does not work on repl
